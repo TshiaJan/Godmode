@@ -2,6 +2,7 @@
 
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
+email janaire.dev@gmail.com
 
 Thank you for playing **AI God-Mode Platform** ("the App", "we", "our", or "us"), developed by Tshiamo Jantjie. This Privacy Policy details how we treat data and user privacy when you interact with our application.
 
